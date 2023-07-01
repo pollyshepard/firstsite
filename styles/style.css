@@ -1,0 +1,20 @@
+.main-header {
+    color: rgb(206, 0, 189);
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+}
+.simple-header {
+    color:rgb(0, 216, 18);
+    font-size: 30px;
+    font-family: "Comic Sans MS", sans-serif;
+}
+.body {
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: size 50px;
+    background-color: rgb(242, 245, 213);
+    color: rgb(0, 0, 0)
+}
+
+.text {
+    font-size: 30px;
+}
